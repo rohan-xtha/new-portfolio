@@ -13,7 +13,7 @@ Welcome to my personal portfolio! Here, I showcase my web development projects, 
 
 ## 📂 Projects
 - New Year Interactive Website – [Live Demo](https://rohan-xtha.github.io/new-year/)  
-- [Other projects can be added here]
+- Story Verse - [Live Demo](https://rohan-xtha.github.io/story/)
 
 ## 📬 Contact Me
 - Email: [rohan0maske@gmail.com](mailto:rohan0maske@gmail.com)
