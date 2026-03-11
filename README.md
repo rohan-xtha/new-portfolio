@@ -34,7 +34,7 @@
 
 
 
-> 💡 *Replace the preview links above with actual screenshots of your deployed site.*
+
 
 ---
 
