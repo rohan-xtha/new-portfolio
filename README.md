@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Web3Forms](https://img.shields.io/badge/Web3Forms-0090FF?style=for-the-badge&logo=maildotru&logoColor=white)](https://web3forms.com)
 
-[**Live Demo →**](#) · [**Report Bug →**](https://github.com/your-username/portfolio/issues) · [**Request Feature →**](https://github.com/your-username/portfolio/issues)
+[**Live Demo →**](https://new-portfolio-nine-ashen.vercel.app/) · [**Report Bug →**](https://github.com/your-username/portfolio/issues) · [**Request Feature →**](https://github.com/your-username/portfolio/issues)
 
 </div>
 
@@ -32,15 +32,7 @@
 
 ---
 
-## 📸 Preview
 
-<div align="center">
-
-| Desktop | Mobile |
-|---------|--------|
-| ![Desktop Preview](#) | ![Mobile Preview](#) |
-
-</div>
 
 > 💡 *Replace the preview links above with actual screenshots of your deployed site.*
 
